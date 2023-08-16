@@ -1,6 +1,11 @@
-# Título del Proyecto
+# RISK TAKER - FUN MAKER
 
-_Acá va un párrafo que describa lo que es el proyecto_
+## Objetivo:
+
+__Construir un sistema de apoyo para el juego Risk. El sistema se implementará
+como una aplicación que recibe comandos textuales, agrupados en componentes con funcionalidades específicas.__ 
+
+__A continuación se describen los componentes individuales que conforman el proyecto.__
 
 ## Comenzando 🚀
 
